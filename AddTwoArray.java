@@ -1,5 +1,6 @@
 class removeDup{
-
+	public removeDup(){}
+	
 	public static void removeDupNumbers(int a[]){
      
      int i=0, j=0;
